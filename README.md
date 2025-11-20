@@ -10,7 +10,7 @@
   <strong>A lightweight subdomain scanner for penetration testing and bug bounty hunting.</strong>
 </p>
 
-[Report Bug](https://github.com/your-username/subhunter/issues) · [Request Feature](https://github.com/your-username/subhunter/issues)
+[Report Bug](https://github.com/egetones/subhunter/issues) · [Request Feature](https://github.com/egetones/subhunter/issues)
 
 </div>
 
